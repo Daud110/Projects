@@ -32,3 +32,19 @@ Language: R
 Applies the SARIMAX (Seasonal Autoregressive Integrated Moving Average with Exogenous factors) model to forecast electricity consumption. This project analyzes time series data alongside external factors to provide accurate consumption predictions.
 
 Language: R
+
+8. Bayesian Analysis Project
+Description:
+This project applies Bayesian Data Analysis to investigate the impact of various medical factors on newborn mortality, with a specific focus on gender differences. Using Bayesian hierarchical modeling, we analyze whether factors like birth weight, platelet count, pneumonia, and IVH affect mortality differently for male and female infants.
+
+Technologies Used:
+
+Programming Language: R
+Key Features:
+
+Bayesian statistical analysis
+Files:
+
+Bayes_project.pdf: Report detailing the Bayesian analysis.
+bayesfinalproject.R: R script containing the analysis code.
+
